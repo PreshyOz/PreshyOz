@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PreshyOz
+- 👋 Hi, I’m @Precious Ozegbe
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning FrontEnd Development
 - 💞️ I’m looking to collaborate on Web Development Projects
