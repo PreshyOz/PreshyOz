@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me here: ozegbeprecious21@gmail.com  or +234-807-157-4152
+- 📫 Reach me here: ozegbeprecious21@gmail.com  
 
 <!---
 PreshyOz/PreshyOz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
