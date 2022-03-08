@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Precious Ozegbe
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning FrontEnd Development
+- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me here: ozegbeprecious21@gmail.com  or +234-807-157-4152
 
